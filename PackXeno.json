@@ -1,0 +1,64 @@
+{
+	"FennecNoir XeNOo": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_xeno.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecJaune XeNOo": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_xeno.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecBlanche XeNOo": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_W_xeno.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+    "Octane XeNOo": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_xeno.png",
+			
+			"Skin": "HyperBeast_Diffuse_xeno.png"
+		}
+    },
+    "OctaneNoir XeNOo": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_xeno.png",
+			
+			"Skin": "octane_noir_xeno.png"
+		}
+    }
+	
+}
